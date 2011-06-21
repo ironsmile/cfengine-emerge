@@ -1,0 +1,1 @@
+Cfengin's stdlib (http://source.cfengine.com/browse/copbl/) does not have gentoo's emerge in its package_methods. So I've written one myself.
